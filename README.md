@@ -17,4 +17,4 @@ En este repositorio se encuentran los resultados y todos los desarrollos del pro
 ### Resultados del proyecto
 - [El __video explicativo__ del proyecto.]()
 - [La __presentación__ mostrada en el video.]()
-- [El   Notebook con el Módulo creado con las funciones que estaremos utilizando durante el proyecto.](https://colab.research.google.com/drive/1lvk9P-tE73ORJYZCYEC8zCSAPq1KpcVv#scrollTo=wfxXRPatCOw7)
+- [El   Notebook (Postwork 02) con el Módulo creado con las funciones que estaremos utilizando durante el proyecto.](https://colab.research.google.com/drive/1lvk9P-tE73ORJYZCYEC8zCSAPq1KpcVv#scrollTo=wfxXRPatCOw7)
