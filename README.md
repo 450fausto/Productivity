@@ -19,5 +19,5 @@ En este repositorio se encuentran los resultados y todos los desarrollos del pro
 - [El   Notebook (Postwork 02) con el Módulo creado con las __funciones más usadas durante el proyecto__.](https://colab.research.google.com/drive/1lvk9P-tE73ORJYZCYEC8zCSAPq1KpcVv#scrollTo=wfxXRPatCOw7)
 - [El __video explicativo__ del proyecto.](https://drive.google.com/file/d/19xeYaWgBbFTq7e-mhMN4_gJMMeg8zKRb/view?usp=sharing)
 - [La __presentación__ mostrada en el video.](Bedu_ML_Diapositivas_Video.pdf)
-
+- [__EN PROCESO__](https://daffodil-breakfast-102.notion.site/Team-One-Data-Science-7b996938aef74be3807dd74db179514f)
 
